@@ -6,7 +6,7 @@ This is a [Python Django](https://www.djangoproject.com) template configured for
 
 Click the button below to start a new development environment:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/template-python-django)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/xnatti/django-test)
 
 ## Get Started With Your Own Project
 
